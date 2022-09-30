@@ -1,0 +1,8 @@
+C:\Users\JPSoft\source\repos\Coding\Coding\obj\Debug\Coding.csproj.AssemblyReference.cache
+C:\Users\JPSoft\source\repos\Coding\Coding\obj\Debug\Coding.csproj.SuggestedBindingRedirects.cache
+C:\Users\JPSoft\source\repos\Coding\Coding\obj\Debug\Coding.csproj.CoreCompileInputs.cache
+C:\Users\JPSoft\source\repos\Coding\Coding\bin\Debug\Coding.exe.config
+C:\Users\JPSoft\source\repos\Coding\Coding\bin\Debug\Coding.exe
+C:\Users\JPSoft\source\repos\Coding\Coding\bin\Debug\Coding.pdb
+C:\Users\JPSoft\source\repos\Coding\Coding\obj\Debug\Coding.exe
+C:\Users\JPSoft\source\repos\Coding\Coding\obj\Debug\Coding.pdb
